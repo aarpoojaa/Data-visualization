@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": 
+[
+{ "type": "Feature", "id": "KS", "geometry": { "type": "Polygon", "coordinates": [[[-102,40],[-102,37], [-95,37], [-95,40]]] }}, 
+{ "type": "Feature", "id": "NB", "geometry": { "type": "Polygon", "coordinates": [[[-104,43], [-104,41], [-102,41], [-102,40], [-95,40], [-96,42]]] }}
+]
+}
